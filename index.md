@@ -1,4 +1,7 @@
 # Header Test
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 ## Heading 2
 ```
 $ git init
